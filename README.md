@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Jython1415
-- 👀 I’m interested in programming for my VEX robotics team, 99484
-- 🌱 I’m currently learning C++, and HTML/CSS/JS
-- 💞️ I’m looking to collaborate on... not much right now
+- 🌱 I’m currently learning Java, JavaScript, and Python
 - 📫 joshua.t.shew@gmail.com
