@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Jython1415
-- 🌱 I’m currently learning Java, JavaScript, and Python
-- 📫 joshua.t.shew@gmail.com
+- 👋 Hi, I’m Joshua Shew
+- 🌱 I’m currently learning data science with Python
+- 📫 joshua [dot] t [dot] shew [at] gmail [dot] com
