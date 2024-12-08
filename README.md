@@ -1,3 +1,5 @@
+[Personal Website (Blog)](jython1415.github.io/)
+
 - 👋 Hi, I’m Joshua Shew
 - 🌱 I’m currently learning data science with Python and R
 - 📫 joshua.t.shew@gmail.com
